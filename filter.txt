@@ -9,4 +9,159 @@ googletagmanager.com
 adservice.google.com
 *.google.com/gen_204?
 aa.google.com/u/*/_/gog/get?
-google.com/complete/search?
+*.google.com/complete/search?
+doubleclick.net
+youtube.com/youtubei/v1/log_event?
+youtube-nocookie.com/youtubei/v1/log_event?
+https://www.gstatic.com/cv/js/sender/v1/cast_sender.js # If YouTube can view all the nearby Chromecast devices, then it can see other nearby devices... yikes!
+youtube.com/generate_204 # It may not send URL paramaters or POST data, but it sends cookies...
+youtube-nocookie.com/generate_204
+docs.google.com/document/u/0/preload
+gstatic.com/generate_204
+clients6.google.com/drive/v2internal/about?
+clients6.google.com/drive/v2internal/apps?
+clients6.google.com/drive/v2internal/changes/getRemainingCount?
+*.google.com/*/naLogImpressions?
+*.google.com/*/logImpressions?
+signaler-pa.clients6.google.com
+gstatic.com/docs/common/cleardot.gif?zx=ihoksxiyyd2y
+peoplestack-pa.clients6.google.com/*/peoplestack.PeopleStackAutocompleteService/Autocomplete
+docs.google.com/document/*/bind?
+docs.google.com/spreadsheets/*/bind?
+docs.google.com/presentation/*/bind?
+docs.google.com/forms/*/bind?
+docs.google.com/drawing/*/bind?
+
+# OneTrust
+geolocation.onetrust.com
+
+# Twitter
+ads-twitter.com
+
+# Reddit
+redditstatic.com/ads/pixel.js
+
+# Pinterest
+pinimg.com/ct/core.js
+
+# Microsoft
+data.microsoft.com
+fpt.microsoft.com
+ads.linkedin.com
+microsoft.com/casexpservice/personalizerwrapperapi/v01/rank?
+bat.bing.com
+
+# Facebook/Meta
+fbthirdpartypixel.com
+facebook.com/tr?
+facebook.net/*/fbevents.js
+facebook.com/*/fbevents.js
+
+# Peacock
+sentry.plsse.peacocktv.com
+
+# ContentSquare
+t.contentsquare.net
+
+# DemDex
+demdex.net$third-party
+
+# Impact Radius
+impactradius-event.com
+
+# Ipify.org
+ipify.org$third-party
+
+# ByteDance
+analytics.tiktok.com
+
+# Spotify
+open.spotifycdn.com/cdn/js/retargeting-pixels.*
+spotify.com/gabo-receiver-service/public/v3/events
+spotify.com/api/masthead/v1/masthead?
+
+# Netflix
+ae.nflximg.net
+netflix.com/personalization/
+
+# GitHub
+collector.github.com
+github.githubassets.com/assets/optimizely-*.js
+api.github.com/_private/browser/stats
+
+# Paypal
+t.paypal.com
+
+# Amazon
+unagi.amazon.com
+amazon-adsystem.com
+unagi-na.amazon.com
+completion.amazon.com
+unagi.wholefoodsmarket.com
+fls-na.amazon.com
+
+# USAA Insurance
+da.usaa.com
+l.usaa.com
+mvt.usaa.com
+
+# Tealium
+tiqcdn.com
+tealium.com$third-party
+
+# State Farm
+ddc.statefarm.com
+
+# AllState
+allstate.com/akam/
+smetrics.allstate.com
+data.allstate.com/personal/a//?
+data.allstate.com/529001/nyQ6?
+data.allstate.com/529001/buR5?
+
+# DataDogHQ
+datadoghq.com$third-party
+
+# advanced-web-analytics.com
+advanced-web-analytics.com
+
+# LivePerson
+lptag.liveperson.net
+
+# Adobe
+adobedtm.com
+
+# Heap Analytics
+heapanalytics.com
+
+# Target
+api.target.com/web_analytics/
+api.target.com/rum_analytics
+api.target.com/location_fulfillment_aggregations/v1/preferred_stores?
+sapphire-api.target.com/sapphire/runtime/api/v1/qualified-experiments?
+redsky.target.com/redsky_aggregations/v1/web_platform/nearby_stores_v1?
+redsky.target.com/redsky_aggregations/v1/web_platform/store_location_v1?
+
+# Walmart
+drfdisvc.walmart.com
+walmart.com/swag/graphql
+
+# Kroger
+sstats.kroger.com
+fredmeyer.com/clickstream/v1/
+fredmeyer.com/atlas/v1/search/v1/products-search?option.personalization=RELEVANCE&option.monetization=CURATED
+fredmeyer.com/cl/api/coupons/v2/allCoupons?
+fredmeyer.com/cdn/analyticsSender.worker.2037c0dee7b415803c96.js
+fredmeyer.com/li0slo/9/D/g1tMk1siiRZS/OiN1zVh1/ZkxYJBIC/CEkQ/XTh8JVg
+www.fredmeyer.com/atlas/v1/recommendations/v1/start-my-cart
+
+# Sentry.insops.net
+sentry.insops.net$third-party
+
+# DuckDuckGo
+improving.duckduckgo.com
+
+# Sentry.io
+ingest.sentry.io
+sentry.io/api/*/envelope/?
+
