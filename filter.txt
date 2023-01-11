@@ -1,0 +1,12 @@
+# Ultimate uBlock Filter!
+
+# Google
+googlesyndication.com
+googleoptimize.com
+google-analytics.com
+googletagmanager.com
+*.google.com/log?
+adservice.google.com
+*.google.com/gen_204?
+aa.google.com/u/*/_/gog/get?
+google.com/complete/search?
